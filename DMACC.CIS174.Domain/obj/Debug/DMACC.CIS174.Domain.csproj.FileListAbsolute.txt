@@ -1,0 +1,14 @@
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\bin\Debug\DMACC.CIS174.Domain.dll.config
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\bin\Debug\DMACC.CIS174.Domain.dll
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\bin\Debug\DMACC.CIS174.Domain.pdb
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\bin\Debug\EntityFramework.dll
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\bin\Debug\EntityFramework.xml
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.csprojAssemblyReference.cache
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.csproj.CopyComplete
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.dll
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.pdb
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.Migrations.InitialDatabaseCreationWithStudentsAndAddresses.resources
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.csproj.GenerateResource.cache
