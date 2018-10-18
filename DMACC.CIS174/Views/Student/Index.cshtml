@@ -1,0 +1,45 @@
+﻿@model DMACC.CIS174.Web.Models.StudentDisplayModel
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+<div class="container">
+    <h2>Students</h2>
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>Height</th>
+                <th>Weight</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var student in Model.Students)
+            {
+                <tr>
+                    <td>
+                        @student.StudentName
+                    </td>
+                    <td>
+                        @student.HeightString
+                    </td>
+                    <td>
+                        @student.WeightString
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>"
+</div>
+</body>
+</html>
+
+<link href="~/Content/bootstrap.min.css"/>
+<script src="~/Scripts/jquery-3.0.0.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>

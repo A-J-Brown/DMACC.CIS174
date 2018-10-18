@@ -1,3 +1,5 @@
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\obj\Debug\DMACC.CIS174.Api.csproj.CoreCompileInputs.cache
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\obj\Debug\DMACC.CIS174.Api.csprojAssemblyReference.cache
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\DMACC.CIS174.Api.dll.config
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\DMACC.CIS174.Api.dll
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\DMACC.CIS174.Api.pdb
@@ -48,6 +50,7 @@ C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\roslyn\vb
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\roslyn\VBCSCompiler.exe
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\DMACC.CIS174.Domain.dll
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\DMACC.CIS174.Shared.dll
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\EntityFramework.dll
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\EntityFramework.SqlServer.dll
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
@@ -57,6 +60,8 @@ C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\System.We
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\System.Web.Http.WebHost.dll
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\DMACC.CIS174.Domain.pdb
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\DMACC.CIS174.Domain.dll.config
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\DMACC.CIS174.Shared.pdb
+C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\DMACC.CIS174.Shared.dll.config
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\EntityFramework.xml
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\EntityFramework.SqlServer.xml
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\Newtonsoft.Json.xml
@@ -64,8 +69,6 @@ C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\System.Ne
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\System.Web.Http.xml
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\System.Web.Http.WebHost.xml
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\obj\Debug\DMACC.CIS174.Api.csprojAssemblyReference.cache
-C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\obj\Debug\DMACC.CIS174.Api.csproj.CoreCompileInputs.cache
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\obj\Debug\DMACC.CIS174.Api.csproj.CopyComplete
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\obj\Debug\DMACC.CIS174.Api.dll
 C:\Users\alekj\Documents\c# advanced\DMACC.CIS174\DMACC.CIS174.Api\obj\Debug\DMACC.CIS174.Api.pdb

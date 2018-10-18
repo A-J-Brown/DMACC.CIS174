@@ -1,34 +1,24 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using DMACC.CIS174.Domain;
 using System.Web.Http;
-using DMACC.CIS174.Api.Models;
+using DMACC.CIS174.Shared.Orchestrators;
+using DMACC.CIS174.Shared.ViewModels;
 
 namespace DMACC.CIS174.Api.Controllers
 {
     [Route("api/v1/students")]
     public class StudentController : ApiController
     {
-        private SchoolContext _schoolContext;
+        private StudentOrchestrator _studentOrchestrator;
 
         public StudentController()
         {
-            _schoolContext = new SchoolContext();
+            _studentOrchestrator = new StudentOrchestrator();
         }
 
-        public async Task<ICollection<StudentModel>> GetAllStudents()
+        public async Task<List<StudentViewModel>> GetAllStudents()
         {
-            var students = await _schoolContext.Students.Select(x => new StudentModel
-            {
-                StudentId = x.StudentId,
-                StudentName = x.StudentName,
-                DateOfBirth = x.DateOfBirth,
-                Height = x.Height,
-                Weight = x.Weight,
-            }).ToListAsync();
+            var students = await _studentOrchestrator.GetAllStudents();
 
             return students;
         }

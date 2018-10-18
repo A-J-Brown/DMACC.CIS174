@@ -116,6 +116,10 @@
       <Project>{4620A78C-4371-40A5-81B5-E22B3670C067}</Project>
       <Name>DMACC.CIS174.Domain</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DMACC.CIS174.Shared\DMACC.CIS174.Shared.csproj">
+      <Project>{E3F4FABF-8ED4-48CF-B5D2-200A3C836C67}</Project>
+      <Name>DMACC.CIS174.Shared</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
