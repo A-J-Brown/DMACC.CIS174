@@ -1,0 +1,47 @@
+﻿@model DMACC.CIS174.Models.CreateStudentModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    <div> 
+        <form>
+            <div class="row">
+                <div class="col-md-6">
+                    @Html.LabelFor(model => model.StudentName)
+                </div>
+                <div class="col-md-6">
+                    @Html.EditorFor(model => model.StudentName)
+                </div>                
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    @Html.LabelFor(model => model.Height)
+                </div>
+                <div class="col-md-6">
+                    @Html.EditorFor(model => model.Height)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    @Html.LabelFor(model => model.Weight)
+                </div>
+                <div class="col-md-6">
+                    @Html.EditorFor(model => model.Weight)
+                </div>
+            </div>
+            <div class="col-md-3">
+                <button class="btn btn-secondary" type="sumbit">Save</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.0.0.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>

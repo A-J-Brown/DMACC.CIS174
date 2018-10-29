@@ -1,0 +1,14 @@
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\bin\Debug\DMACC.CIS174.Shared.dll.config
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\bin\Debug\DMACC.CIS174.Shared.dll
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\bin\Debug\DMACC.CIS174.Shared.pdb
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\bin\Debug\DMACC.CIS174.Domain.dll
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\bin\Debug\EntityFramework.dll
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\bin\Debug\DMACC.CIS174.Domain.pdb
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\bin\Debug\DMACC.CIS174.Domain.dll.config
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\bin\Debug\EntityFramework.xml
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\obj\Debug\DMACC.CIS174.Shared.csprojResolveAssemblyReference.cache
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\obj\Debug\DMACC.CIS174.Shared.csproj.CoreCompileInputs.cache
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\obj\Debug\DMACC.CIS174.Shared.dll
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Shared\obj\Debug\DMACC.CIS174.Shared.pdb

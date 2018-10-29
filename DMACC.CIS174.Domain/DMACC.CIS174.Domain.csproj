@@ -50,9 +50,9 @@
   <ItemGroup>
     <Compile Include="Entities\Address.cs" />
     <Compile Include="Entities\Student.cs" />
-    <Compile Include="Migrations\201810132051186_InitialDatabaseCreationWithStudentsAndAddresses.cs" />
-    <Compile Include="Migrations\201810132051186_InitialDatabaseCreationWithStudentsAndAddresses.Designer.cs">
-      <DependentUpon>201810132051186_InitialDatabaseCreationWithStudentsAndAddresses.cs</DependentUpon>
+    <Compile Include="Migrations\201810271638542_Initialize pc Express03.cs" />
+    <Compile Include="Migrations\201810271638542_Initialize pc Express03.Designer.cs">
+      <DependentUpon>201810271638542_Initialize pc Express03.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -63,8 +63,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201810132051186_InitialDatabaseCreationWithStudentsAndAddresses.resx">
-      <DependentUpon>201810132051186_InitialDatabaseCreationWithStudentsAndAddresses.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201810271638542_Initialize pc Express03.resx">
+      <DependentUpon>201810271638542_Initialize pc Express03.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

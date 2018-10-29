@@ -7,5 +7,6 @@ namespace DMACC.CIS174.Shared.Orchestrators.Interfaces
     interface IStudentOrchestrator
     {
         Task<List<StudentViewModel>> GetAllStudents();
+        Task<int> CreateStudent(StudentViewModel student);
     }
 }
