@@ -10,3 +10,5 @@ C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174
 C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.pdb
 C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.Migrations.InitializepcExpress03.resources
 C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.csproj.GenerateResource.Cache
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.csprojAssemblyReference.cache
+C:\Users\alekj\Documents\DMACC.CIS174\DMACC.CIS174.Domain\obj\Debug\DMACC.CIS174.Domain.csproj.CopyComplete

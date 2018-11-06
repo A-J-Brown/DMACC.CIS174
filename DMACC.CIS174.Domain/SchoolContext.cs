@@ -8,6 +8,5 @@ namespace DMACC.CIS174.Domain
         public DbSet<Student> Students { get; set; }
         public DbSet<Address> Addresses { get; set; }
 
-
     }
 }
